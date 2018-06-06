@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica;
+}
+
+.pretty {
+  background-image: url(../images/hi.png);
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 72px;
+  font-weight: bold;
+}
+
+.lil-nav {
+  font-size: 18px;
+  color: white;
+}
