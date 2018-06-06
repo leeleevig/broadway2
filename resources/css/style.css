@@ -13,7 +13,32 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.cpywrtbar {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color:white
+}
+
+.smtxt {
+  font-size: 14px;
+}
+
 .lil-nav {
   font-size: 18px;
   color: white;
+}
+
+.process {
+  text-align: center;
 }
